@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Learn AI to Master</title>
+  <desc id="description">An open book with a connected neural network, beside the Learn AI to Master wordmark.</desc>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="126" cy="130" r="103" stroke="#e8eee9" stroke-width="2"/>
+    <circle cx="126" cy="130" r="91" stroke="#d6dfdc" stroke-width="2"/>
+
+    <path d="M54 91c22-13 46-13 70 5v87c-23-18-47-20-70-8z" stroke="#1b2c46" stroke-width="6"/>
+    <path d="M198 91c-22-13-46-13-70 5v87c23-18 47-20 70-8z" stroke="#1b2c46" stroke-width="6"/>
+    <path d="M126 97v86" stroke="#177f79" stroke-width="5"/>
+
+    <path d="M72 109c15-6 31-4 43 4M72 130c15-6 31-4 43 4M72 151c15-6 31-4 43 4" stroke="#dc7b43" stroke-width="4"/>
+
+    <path d="M136 118l21-18 22 14-12 24-23 13" stroke="#177f79" stroke-width="3.5"/>
+    <path d="M157 100l17-14M179 114l15-6M167 138l17 14M144 151l-2 15" stroke="#177f79" stroke-width="3"/>
+  </g>
+  <g fill="#177f79">
+    <circle cx="136" cy="118" r="5"/>
+    <circle cx="157" cy="100" r="5"/>
+    <circle cx="179" cy="114" r="5"/>
+    <circle cx="167" cy="138" r="5"/>
+    <circle cx="144" cy="151" r="5"/>
+    <circle cx="174" cy="86" r="4"/>
+    <circle cx="194" cy="108" r="4"/>
+    <circle cx="184" cy="152" r="4"/>
+    <circle cx="142" cy="166" r="4"/>
+  </g>
+
+  <text x="292" y="126" font-family="Georgia, 'Times New Roman', serif" font-size="67" font-weight="700" letter-spacing="-2">
+    <tspan fill="#1b2c46">Learn </tspan><tspan fill="#177f79">AI</tspan><tspan fill="#1b2c46"> to Master</tspan>
+  </text>
+  <path d="M294 153h744" fill="none" stroke="#dc7b43" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="1048" cy="153" r="6" fill="#177f79"/>
+  <text x="296" y="193" fill="#334765" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="5.2">
+    FROM FOUNDATIONS TO AI SYSTEMS
+  </text>
+</svg>
